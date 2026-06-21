@@ -1,32 +1,57 @@
-# Hello, I'm Łukasz Szymański 
-Welcome to my GitHub profile! 
+# Hi there, I'm Łukasz Szymański 👋
+### Musician 🎻 | Frontend Developer 💻 | Video Producer 🎥
 
-I'm Łukasz Szymański, a self-taught frontend enthusiast with a passion for coding, classical music, and video production. This space is a reflection of my creative journey, where I merge the worlds of technology, music, and visual storytelling.
+---
 
-## About Me
-I am a professional classical musician whose love for sound seamlessly blends with the immersive realm of coding. The harmony, precision, and creativity I express in music find their reflection in every line of code I write. Coding is not just a job for me; it's a passion that allows me to bridge these two seemingly different worlds.
+### 💫 About Me
+I am a professional **classical musician** whose love for sound seamlessly blends with the immersive realm of coding. The harmony, precision, and creativity I express in music find their reflection in every line of code I write. Coding is a passion that allows me to bridge these two seemingly different worlds.
 
-When I'm not exploring the latest UI/UX trends or experimenting with new libraries in JavaScript, you'll find me behind the lens of a camera. Video creation is not just a skill but a way for me to share stories and experiences, capturing emotions in cinematic frames.
+When I'm not exploring the latest UI/UX trends or experimenting with new libraries in JavaScript, you'll find me behind the lens of a camera. Video creation is my way to share stories and experiences, capturing emotions in cinematic frames.
 
-## Explore My World
-Feel free to navigate through my website, where you'll discover not only frontend projects but also the sounds of music and emotions captured in cinematic frames. This GitHub repository is a showcase of my coding projects, reflecting my dedication to creativity and innovation in the digital space.
+---
 
-## Connect with Me 
-<a href="https://szymanski.netlify.app" target="_blank">Portfolio Website</a>
+### 🛠️ Tech Stack & Tools
 
-<a href="https://www.linkedin.com/in/lukasz-szymanski94/" target="_blank">LinkedIn</a>
+#### 💻 Frontend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
 
-<a href="https://www.youtube.com/channel/UCKNDC6ymPscd0PPdEGr8eJw" target="_blank">Youtube</a>
+#### 🐍 Languages & Utilities
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
 
+---
 
-Thank you for being here, and I hope my piece of the internet world brings you inspiration and enjoyment. 
+### 📊 GitHub Stats
 
-Enjoy the exploration!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lukasz-Szymanski&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasz-Szymanski&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+</p>
 
-Best,
+---
 
-Łukasz
-
-
-
-
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://szymanski.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Personal-%2324292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/lukasz-szymanski94/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCKNDC6ymPscd0PPdEGr8eJw" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
