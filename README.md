@@ -34,8 +34,9 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
 
 #### 🤖 AI-Assisted Development
 <p align="left">
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Antigravity_CLI-DeepMind-%233B68FF?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity CLI" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
 
 ---
