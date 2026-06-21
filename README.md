@@ -36,7 +36,6 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" alt="Google Gemini" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
 ---
