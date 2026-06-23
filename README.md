@@ -18,6 +18,7 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Astro-%23FF5A03.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
@@ -38,6 +39,15 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
   <img src="https://img.shields.io/badge/Antigravity_CLI-DeepMind-%233B68FF?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity CLI" />
   <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
 </p>
+
+---
+
+### 🚀 Selected Projects
+
+* **[Fundacja "Dać Wytchnienie" Web Portal](https://fundacja-dac-wytchnienie.netlify.app)**
+  * **Tech Stack:** Astro v7, Tailwind CSS v4, HTML5, JavaScript, Netlify CI/CD.
+  * **Description:** A modern, high-performance static website (SSG) migrated to Astro, featuring SPA-like view transitions (ClientRouter), micro-interactions (floating background feather animations, scroll-to-top), and highly responsive contact layout configurations.
+  * **Repository:** [Lukasz-Szymanski/Fundacja_Dac_Wytchnienie](https://github.com/Lukasz-Szymanski/Fundacja_Dac_Wytchnienie)
 
 ---
 
