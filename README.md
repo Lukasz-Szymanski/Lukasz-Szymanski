@@ -54,8 +54,8 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lukasz-Szymanski&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lukasz-Szymanski&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Lukasz-Szymanski&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lukasz-Szymanski&layout=compact&theme=radical&count_private=true" alt="Top Languages" />
 </p>
 
 ---
