@@ -44,10 +44,10 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
 
 ### 🚀 Selected Projects
 
-* **[Fundacja "Dać Wytchnienie" Web Portal](https://fundacja-dac-wytchnienie.netlify.app)**
-  * **Tech Stack:** Astro v7, Tailwind CSS v4, HTML5, JavaScript, Netlify CI/CD.
-  * **Description:** A modern, high-performance static website (SSG) migrated to Astro, featuring SPA-like view transitions (ClientRouter), micro-interactions (floating background feather animations, scroll-to-top), and highly responsive contact layout configurations.
-  * **Repository:** [Lukasz-Szymanski/Fundacja_Dac_Wytchnienie](https://github.com/Lukasz-Szymanski/Fundacja_Dac_Wytchnienie)
+* **[Git-Sensei](https://github.com/Lukasz-Szymanski/git_sensei)**
+  * **Tech Stack:** Python, Git, LLM APIs (Antigravity, Claude Code, OpenAI, Ollama).
+  * **Description:** A CLI tool that generates professional commit messages using any AI provider. It features a Secrets Shield, Smart Context (Jira/GitHub issue auto-linking), branch type detection, and interactive review.
+  * **Repository:** [Lukasz-Szymanski/git_sensei](https://github.com/Lukasz-Szymanski/git_sensei)
 
 ---
 
