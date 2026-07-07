@@ -62,7 +62,7 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
 
 ### 🤝 Connect with Me
 <p align="left">
-  <a href="https://szymanski.netlify.app" target="_blank">
+  <a href="https://szymanski.studio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Personal-%2324292e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/lukasz-szymanski94/" target="_blank">
