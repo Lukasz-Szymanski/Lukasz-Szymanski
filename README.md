@@ -44,6 +44,11 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
 
 ### 🚀 Selected Projects
 
+* **[Szymanski Studio](https://szymanski.netlify.app)**
+  * **Tech Stack:** Astro, Tailwind CSS, TypeScript, i18n.
+  * **Description:** A flagship frontend portfolio project showcasing advanced visual design (including glassmorphism and video backgrounds) and strong organizational skills.
+  * **Repository:** [Lukasz-Szymanski/portfolio](https://github.com/Lukasz-Szymanski/portfolio)
+
 * **[Git-Sensei](https://github.com/Lukasz-Szymanski/git_sensei)**
   * **Tech Stack:** Python, Git, LLM APIs (Antigravity, Claude Code, OpenAI, Ollama).
   * **Description:** A CLI tool that generates professional commit messages using any AI provider. It features a Secrets Shield, Smart Context (Jira/GitHub issue auto-linking), branch type detection, and interactive review.
