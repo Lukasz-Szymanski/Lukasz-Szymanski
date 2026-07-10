@@ -54,6 +54,11 @@ When I'm not exploring the latest UI/UX trends or experimenting with new librari
   * **Description:** A CLI tool that generates professional commit messages using any AI provider. It features a Secrets Shield, Smart Context (Jira/GitHub issue auto-linking), branch type detection, and interactive review.
   * **Repository:** [Lukasz-Szymanski/git_sensei](https://github.com/Lukasz-Szymanski/git_sensei)
 
+* **[J.A.R.V.I.S. Mark I](https://github.com/Lukasz-Szymanski/jarvis-mark-1)**
+  * **Tech Stack:** Python, FastAPI, Streamlit, SQLite, LLM APIs.
+  * **Description:** An AI-powered virtual assistant that parses unformatted, chaotic user input to extract and schedule calendar events and tasks using dual-LLM routing (cost-effective lightweight vs. advanced reasoning models).
+  * **Repository:** [Lukasz-Szymanski/jarvis-mark-1](https://github.com/Lukasz-Szymanski/jarvis-mark-1)
+
 ---
 
 ### 📊 GitHub Stats
