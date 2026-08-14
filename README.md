@@ -1,7 +1,7 @@
 # Hi there, I'm Łukasz Szymański 👋
 ### Musician 🎻 | Python/AI Backend Developer 💻 | Video Producer 🎥
 
-**🚀 Open to Work:** I am currently available for commercial collaboration and freelance projects focusing on Python backend development, automations, and AI integrations. If you need robust intelligent CLI tools or scalable architectures, let's connect! Reach out via the [contact section on szymanski.studio](https://szymanski.studio/#contact).
+**🚀 Open to Work:** I am currently available for commercial collaboration and freelance projects focusing on Python backend development, automations, and AI integrations. If you need robust intelligent CLI tools or scalable architectures, let's connect! Reach out via the [contact section on szymanski.studio](https://szymanski.studio/contact).
 
 ---
 
